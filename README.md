@@ -1,4 +1,4 @@
-Novanector
+#Novanector
 
 Secure System Authentication and Encryption This project implements a simple user authentication system with role-based access control and message encryption/decryption using the cryptography and bcrypt libraries. Users can register, log in, and access resources based on their roles. Additionally, messages can be encrypted and decrypted securely.
 
